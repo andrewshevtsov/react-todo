@@ -37,5 +37,5 @@
   "resolutions": {
     "@babel/preset-env": "7.5.5"
   },
-  "homepage": "https://andrewshevtsov.github.io/my-react-bootstrap-todo-app"
+  "homepage": "https://andrewshevtsov.github.io/react-todo"
 }
