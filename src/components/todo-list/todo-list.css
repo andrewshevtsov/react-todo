@@ -1,0 +1,12 @@
+.todo-list .list-group-item {
+    display: flex;
+    align-items: center;
+}
+
+.list-group-item__btn {
+    min-width: 40px;
+}
+
+.list-group-item__btn:last-child {
+    margin-left: 8px;
+}

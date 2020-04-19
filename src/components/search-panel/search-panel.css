@@ -1,0 +1,8 @@
+.search-panel {
+    display: flex;
+    margin: 16px 0 16px 0;
+}
+
+.search-panel__input {
+    margin-right: 8px;
+}
