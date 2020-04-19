@@ -8,10 +8,6 @@ export default class TodoList extends Component {
 
         const { todos, onDeleted, onToggleImportant, onToggleDone, } = this.props;
 
-        // const filteredTodos = todos.filter((item) => {
-        //     return item.label.toLowerCase().indexOf(search.toLowerCase()) !== -1;
-        // });
-
         const elements = todos.map((item) => {
 
             const { id, ...itemProps } = item;
